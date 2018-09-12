@@ -1,3 +1,4 @@
 package-lock.json
 .DS_Store
 resume.md
+node_modules/
